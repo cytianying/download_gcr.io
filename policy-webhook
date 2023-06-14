@@ -1,0 +1,1 @@
+FROM gcr.io/projectsigstore/policy-webhook@sha256:82940e8c3e0d3d5dd92b4779f4378e664f91b790db0d799b03535648eddc141d
